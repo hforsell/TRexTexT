@@ -1,1 +1,1 @@
-# TRexTexT
+# TRexTexT is a tool for schools to edit the instructor absence to students concerned. If the registered information for absentee lists is incomplete the instructor is noticed. In this case will the program advert the instructor of no notified custodians of relevant students.
